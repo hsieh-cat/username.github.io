@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>我的部落格</title>
+    </head>
+    <body>
+        <h1>Roblox好友你好 \。w。/</h1>
+        <hr>
+        <h2>我厲害吧:></h2>
+        <h2>我喜歡玩的遊戲</h2>
+        <hr>
+        <ol>
+            <li>roblox海賊王</li>
+            <li>傳說 名字：黎明的歌謠</li>
+        </ol>
+        <h2>最近在玩的遊戲</h2>
+        <hr>
+        <ul>
+            <li>roblox海賊王</li>
+            <li>傳說</li>
+            <li>光遇</li>
+        </ul>
+        <h2>FaceBook名字</h2>
+            <li>kenhsieh</li>
+        <table>
+            <tr>
+                <th>名稱</th>
+                <th>網址</th>
+            </tr>
+            <tr>
+                <td>roblox海賊王</td>
+                <td><a hred=""></a></td>
+            </tr>
+        </table>
+    </body>
+</html>
